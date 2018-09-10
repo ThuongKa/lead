@@ -1,9 +1,0 @@
-Architecture: iphoneos-arm
-Author: lead
-Depiction: https://github.com/thuongka/thuongka.github.io
-Description: Adds Icon Images
-Maintainer: lead <reponame@example.com>
-Name: icons
-Package: com.thuongka.icons
-Section: Tweaks
-Version: 1.0
