@@ -1,0 +1,74 @@
+Package: com.yourepo.autoleadfree.autolead
+Version: x.x
+Architecture: iphoneos-arm
+Depends: com.conradkramer.open,sqlite3,kr.iolate.simulatetouch,com.autopear.installipa,zip,jp.ashikase.mousesupport,sudo,ch.ringwald.hidsupport,com.rbt.useragentchanger,unzip,ws.hbang.repower,veency,rsync,com.yourepo.autoleadfree.xcon,jetslammed,socat,com.yourepo.autoleadfree.hookkeyboard,com.yourepo.autoleadfree.icontool,com.cydiageek.coysim,com.yourepo.autoleadfree.locationfaker8910
+Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2
+Filename: ./debs/tool.deb
+Size: 243018
+MD5sum: 9afd107e92a109fd3b1ac130392299f8
+SHA1: 09bf0a12d480ccc02e9b383ac1e77a14b73c0b5f
+SHA256: 4735bc7c62b6d5b60ef8eedbc537b2f69d6f80856b1af7ec279a6d2f7a872245
+Section: System
+Description: Auto Lead iOS 8 - 10.2 .....................................
+Author: MMO Private <xxx@gmail.com>
+Name: autolead
+
+Package: com.yourepo.autoleadfree.hookkeyboard
+Version: x.x
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/hookkeyboard_x.x.deb
+Size: 331752
+MD5sum: 5b8db68bafe89e9a6768e08a059f17fa
+SHA1: 167d69080f60f531e17dcdce603550ab1057fbeb
+SHA256: 69f11a9d89719bb9b2a30b9148d001bdf41118723a93b87cf6134b5b47180c06
+Section: Tweaks
+Description: Tweak for AutoLead  iOS 8 --- 10.2 .......................................
+Author: mena@geekforex.com <mena@geekforex.com>
+Name: hookkeyboard
+
+Package: com.yourepo.autoleadfree.icontool
+Version: 1.9-5k
+Architecture: iphoneos-arm
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 5.0), preferenceloader (>= 2.2.2)
+Conflicts: com.rpetrich.iconrenamer,vn.gsm.icontool
+Filename: ./debs/icontool_1.9-5k.deb
+Size: 386246
+MD5sum: 5f76944654f4d25e9ad89010726736ad
+SHA1: e46172603576b34d177be4b123b3dec59efff0d2
+SHA256: 7d3f0ede7cb51fcfbb8c8fbf4c16fe206803f3cec36fa5fb92e72df516f8d1b5
+Section: Tweaks
+Description: app tools menu from jiggle mode................................
+Author: ioshack <nofearlose@gmail.com>
+Name: Icon Tool
+
+Package: com.yourepo.autoleadfree.locationfaker8910
+Version: 2.0k
+Architecture: iphoneos-arm
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: org.thebigboss.locationchangerx
+Filename: ./debs/locationfaker8910_2.0k.deb
+Size: 551060
+MD5sum: e3e903ee6ec7ceb2f01c2367c905043e
+SHA1: fa4f212fd00a093682182a2c82585f5c14e118a2
+SHA256: e8d93f1cd78d2ab099d55fe5023fbedc043dd19dfa8204e6e1a5812400f4a2b9
+Section: Tweaks
+Description: change your location using a map Cracked.....................
+Author: Cunstuck <mena@geekforex.com>
+Name: LocationFaker(8,9,10)
+
+Package: com.yourepo.autoleadfree.xcon
+Version: 42~beta1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner,com.yourepo.cml.xcon,com.yourepo.viet.xcon
+Filename: ./debs/xcon_42~beta1.deb
+Size: 141884
+MD5sum: f3345c17cb89cd457f823e51dfd8b161
+SHA1: b10703a6e15c33e06d49c5be838cdbf305593456
+SHA256: 491183859628abad7d206cd25353e636df8dcd63fc91bffd96ed3e4bca6f3bfd
+Section: Tweaks
+Description: bypass anti-jailbreak protection..................................
+Author: Lunatik <nofearlose@gmail.com>
+Name: xCon
+
